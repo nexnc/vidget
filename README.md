@@ -1,4 +1,4 @@
-# vidget
+# vidget (Currently under work)
 vidget is a GUI and CLI based video downloader for all major GNU/Linux distros. 
 
 
